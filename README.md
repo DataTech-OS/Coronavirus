@@ -1,0 +1,1 @@
+This little script downloads the coronavirus data from the Sole24Ore website (it should still work if they didn't change something, but they usually do), uses the matplotlib library to plot a few graphs and then optimizes a simple SIR model.
